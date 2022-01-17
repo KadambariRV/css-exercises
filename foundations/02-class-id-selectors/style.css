@@ -1,0 +1,17 @@
+.odd-class{
+    background-color: rgb(255, 182, 193);
+    font-family: "verdana", "dejavu sans", sans-serif;
+}
+#one{
+    color: #0000CD;
+    font-size: 36px;
+
+}
+.add{
+    font-size: 24px;
+}
+#two{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
